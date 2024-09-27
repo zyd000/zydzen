@@ -82,4 +82,3 @@ resolution:2
 `PA7`
 
 `animations`
-****
